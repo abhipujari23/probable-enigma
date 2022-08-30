@@ -1,6 +1,6 @@
 # probable-enigma
 ### Important notes on Ethical Hacking and its pre-requisites
-Note structure: Command first then its meaning on next line
+
 
 ## Keyboard Shortcuts in Kali
 
